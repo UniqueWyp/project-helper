@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.31.0
+python-multipart==0.0.12
+requests==2.32.3
+gitpython==3.1.43
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+sqlalchemy==2.0.34
+aiofiles==24.1.0
+python-dotenv==1.0.1
+pydantic==2.8.2
+sse-starlette==2.1.0
+beautifulsoup4==4.12.3
